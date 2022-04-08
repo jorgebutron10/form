@@ -1,0 +1,20 @@
+h1{
+    background-color: orangered;
+}
+
+#form{
+    border-style: dotted;
+    width: 35%;
+    text-align: center;
+    margin: auto;
+  
+}
+
+ #submitBtn{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#email{
+    margin: auto;
+} 
