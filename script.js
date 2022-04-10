@@ -99,8 +99,7 @@ comment.addEventListener('input', event => {
 fetch("https://jsonplaceholder.typicode.com/users",{
   method: 'POST',
   body:JSON.stringify({
-    name: ' f_name', 
-    'l_name',     
+    name: ' f_name', 'l_name',     
     // I want the full name displaying and not 
     // have a first name and last name values on differen lines is this correct?
     email: 'email',
